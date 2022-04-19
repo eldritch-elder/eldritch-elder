@@ -1,6 +1,6 @@
 elo, i'm freja ✨
 
-don't expect a lot here except maybe the one or other fork/pr, i mostly use [git.sr.ht/~jat](sourcehut)
+don't expect a lot here except maybe the one or other fork/pr, i mostly use [sourcehut](https://git.sr.ht/~jat)
 
 you can reach me on discord if you know where to find me, just ping me :D
 
